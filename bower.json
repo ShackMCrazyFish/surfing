@@ -1,0 +1,16 @@
+{
+  "name": "surfing",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "vitya"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
